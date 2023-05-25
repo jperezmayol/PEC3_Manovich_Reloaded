@@ -58,6 +58,7 @@ En conclusión, tanto 360Cities como Minecraft Education Edition ejemplifican la
 * About 360Cities [360cities.net](https://www.360cities.net/about)
 * Minecraft Education [education.minecraft.net](https://education.minecraft.net/es-es)
 * Penalva, Javier. (2016). **Minecraft Education Edition: de la sorpresa de los alumnos a la lucha contra los prejuicios alrededor del videojuego**. [xataka.com](https://www.xataka.com/entrevistas/minecraft-education-edition-de-la-sorpresa-de-los-alumnos-a-la-lucha-contra-los-prejuicios-alrededor-del-videojuego)
+* Edwards, Luke. (2022). **What is Minecraft: Education Edition?**. [techlearning.com](https://www.techlearning.com/features/what-is-minecraft-education-edition)
 
 ----
 
